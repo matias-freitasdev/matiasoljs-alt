@@ -30,7 +30,9 @@ I like working with clean code, learning how systems work behind the scenes, and
 
 ## 🧰 Tech Stack
 
-- Python  
+- Python
+- Java Script
+- Express.js
 - FastAPI  
 - SQLModel  
 - SQLite  
@@ -51,7 +53,8 @@ It focuses on learning how to structure a backend system, handle data, and build
 - Python  
 - FastAPI  
 - SQLModel  
-- SQLite  
+- SQLite
+- postgresql
 
 ---
 
