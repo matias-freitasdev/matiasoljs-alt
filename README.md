@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matias 👋</h1>
 
 <p align="center">
-  Backend Developer (Junior) • Python • API Development
+  Backend Developer • Python • API Development
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ I'm a beginner backend developer from Brazil focused on building APIs with Pytho
 I like working with clean code, learning how systems work behind the scenes, and building real backend projects.
 
 - 🇧🇷 Based in Brazil  
-- 🐍 Python Backend Developer (Junior level)  
+- 🐍 Python Backend Developer  
 - 🚀 Focused on FastAPI and backend systems  
 - 🧠 Learning databases and API design  
 - 🎯 Goal: Become a professional backend engineer  
